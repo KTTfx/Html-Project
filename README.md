@@ -1,1 +1,1 @@
-This is the read me file for navigating the UGCS website.
+This is the read me file for navigating the UGCS website..
